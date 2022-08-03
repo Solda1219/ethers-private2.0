@@ -1,0 +1,11 @@
+{
+  "name": "ethers-private",
+  "version": "2.0.0",
+  "description": "This is module for validate private keys with async",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roddon",
+  "license": "ISC"
+}
